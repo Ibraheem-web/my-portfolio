@@ -1,0 +1,25 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Ibraheem Portfolio"
+theme = "alexa-portfolio"
+googleAnalytics = "UA-167869327-1"
+enableRobotsTXT = true
+
+
+[params]
+  # favicon = "./images/png.jpeg"
+  home_title = "Hi, I am Ibraheem"
+  home_subtitle = "Front-End Web Developer"
+  github = "https://github.com/Muhammad-Ib"
+  facebook = ""
+  dribbble = ""
+  email = "mibraheem33532233@gmail.com"
+  location = "Punjab, Pakistan"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[images]
+  STATIC_URL = "static/images/garden-site-image.png"
