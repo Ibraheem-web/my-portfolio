@@ -3,6 +3,7 @@ draft: false
 title: "Gusreid"
 job_type: "Designed and Develop"
 stack: "HUGO • BOOTSTRAP"
+slug: "gusreid"
 website_link: "https://gusreid.com/"
 ---
 
