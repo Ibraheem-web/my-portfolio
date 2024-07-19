@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Tailwind Project"
+title: "Gusreid"
 job_type: "Designed and Develop"
 stack: "HUGO • BOOTSTRAP"
 website_link: "https://gusreid.com/"
