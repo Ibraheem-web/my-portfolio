@@ -3,12 +3,6 @@ title: "About Me"
 subtitle: "My Introduction"
 ---
 
-<div class="container grid">
-  <span class="section__title h2">
-    Hello! My name is <b class='main-color'>Muhammad Ibraheem</b> from <b class='main-color'>Pakistan</b>.
-  </span>
-</div>
-
 I am Muhammad Ibraheem, a passionate Web Developer from Punjab, Pakistan. Currently doing my college studies after completing my matriculation, for the past two years, I have been working hard to master this skill—web development. I do freelancing on Fiverr, Upwork, and Kwork, so I am here to help you put your digital projects into action.
 
 I have also grown through this journey in web development and gained actual skills in HTML, CSS, Bootstrap, and Tailwind CSS. Combined, this kind of core set allows developing visually appealing, responsive websites. In addition, I know Hugo and Jekyll; those let me craft static websites efficiently and effectively.
