@@ -10,10 +10,9 @@ enableRobotsTXT = true
   # favicon = "./images/png.jpeg"
   home_title = "Hi, I am Ibraheem"
   home_subtitle = "Front-End Web Developer"
-  github = ""
-  facebook = ""
-  dribbble = ""
-  email = "mibraheem33532233@gmail.com"
+  linkedin = "https://www.linkedin.com/in/muhammad-ibraheem-512513292/"
+  email = "muhammadibraheem.dev@gmail.com"
+  phone = "+92-336-0505569"
   location = "Punjab, Pakistan"
 
 [markup]
